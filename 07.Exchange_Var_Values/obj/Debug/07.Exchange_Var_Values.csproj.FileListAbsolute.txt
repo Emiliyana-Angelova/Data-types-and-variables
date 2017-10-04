@@ -1,0 +1,6 @@
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\07.Exchange_Var_Values\bin\Debug\07.Exchange_Var_Values.exe.config
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\07.Exchange_Var_Values\bin\Debug\07.Exchange_Var_Values.exe
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\07.Exchange_Var_Values\bin\Debug\07.Exchange_Var_Values.pdb
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\07.Exchange_Var_Values\obj\Debug\07.Exchange_Var_Values.csprojResolveAssemblyReference.cache
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\07.Exchange_Var_Values\obj\Debug\07.Exchange_Var_Values.exe
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\07.Exchange_Var_Values\obj\Debug\07.Exchange_Var_Values.pdb

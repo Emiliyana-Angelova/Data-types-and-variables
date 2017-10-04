@@ -1,0 +1,5 @@
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\05.Boolean_Variable\bin\Debug\05.Boolean_Variable.exe.config
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\05.Boolean_Variable\bin\Debug\05.Boolean_Variable.exe
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\05.Boolean_Variable\bin\Debug\05.Boolean_Variable.pdb
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\05.Boolean_Variable\obj\Debug\05.Boolean_Variable.exe
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\05.Boolean_Variable\obj\Debug\05.Boolean_Variable.pdb

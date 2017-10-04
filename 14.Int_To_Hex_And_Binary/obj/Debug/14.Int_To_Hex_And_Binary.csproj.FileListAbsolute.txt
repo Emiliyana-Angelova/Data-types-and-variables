@@ -1,0 +1,5 @@
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables-Ex\14.Int_To_Hex_And_Binary\bin\Debug\14.Int_To_Hex_And_Binary.exe.config
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables-Ex\14.Int_To_Hex_And_Binary\bin\Debug\14.Int_To_Hex_And_Binary.exe
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables-Ex\14.Int_To_Hex_And_Binary\bin\Debug\14.Int_To_Hex_And_Binary.pdb
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables-Ex\14.Int_To_Hex_And_Binary\obj\Debug\14.Int_To_Hex_And_Binary.exe
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables-Ex\14.Int_To_Hex_And_Binary\obj\Debug\14.Int_To_Hex_And_Binary.pdb

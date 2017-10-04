@@ -1,0 +1,6 @@
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables-Ex\15.Fast_Prime_Checker\bin\Debug\15.Fast_Prime_Checker.exe.config
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables-Ex\15.Fast_Prime_Checker\bin\Debug\15.Fast_Prime_Checker.exe
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables-Ex\15.Fast_Prime_Checker\bin\Debug\15.Fast_Prime_Checker.pdb
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables-Ex\15.Fast_Prime_Checker\obj\Debug\15.Fast_Prime_Checker.csprojResolveAssemblyReference.cache
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables-Ex\15.Fast_Prime_Checker\obj\Debug\15.Fast_Prime_Checker.exe
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables-Ex\15.Fast_Prime_Checker\obj\Debug\15.Fast_Prime_Checker.pdb

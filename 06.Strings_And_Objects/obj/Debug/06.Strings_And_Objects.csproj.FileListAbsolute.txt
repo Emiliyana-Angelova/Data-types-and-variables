@@ -1,0 +1,6 @@
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\06.Strings_And_Objects\bin\Debug\06.Strings_And_Objects.exe.config
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\06.Strings_And_Objects\bin\Debug\06.Strings_And_Objects.exe
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\06.Strings_And_Objects\bin\Debug\06.Strings_And_Objects.pdb
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\06.Strings_And_Objects\obj\Debug\06.Strings_And_Objects.csprojResolveAssemblyReference.cache
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\06.Strings_And_Objects\obj\Debug\06.Strings_And_Objects.exe
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\06.Strings_And_Objects\obj\Debug\06.Strings_And_Objects.pdb

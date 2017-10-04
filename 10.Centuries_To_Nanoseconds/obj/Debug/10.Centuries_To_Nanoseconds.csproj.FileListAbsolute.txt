@@ -1,0 +1,6 @@
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\10.Centuries_To_Nanoseconds\bin\Debug\10.Centuries_To_Nanoseconds.exe.config
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\10.Centuries_To_Nanoseconds\bin\Debug\10.Centuries_To_Nanoseconds.exe
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\10.Centuries_To_Nanoseconds\bin\Debug\10.Centuries_To_Nanoseconds.pdb
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\10.Centuries_To_Nanoseconds\obj\Debug\10.Centuries_To_Nanoseconds.csprojResolveAssemblyReference.cache
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\10.Centuries_To_Nanoseconds\obj\Debug\10.Centuries_To_Nanoseconds.exe
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\10.Centuries_To_Nanoseconds\obj\Debug\10.Centuries_To_Nanoseconds.pdb

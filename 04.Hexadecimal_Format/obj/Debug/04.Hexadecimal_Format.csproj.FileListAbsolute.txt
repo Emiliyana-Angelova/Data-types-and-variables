@@ -1,0 +1,5 @@
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\04.Hexadecimal_Format\bin\Debug\04.Hexadecimal_Format.exe.config
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\04.Hexadecimal_Format\bin\Debug\04.Hexadecimal_Format.exe
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\04.Hexadecimal_Format\bin\Debug\04.Hexadecimal_Format.pdb
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\04.Hexadecimal_Format\obj\Debug\04.Hexadecimal_Format.exe
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\04.Hexadecimal_Format\obj\Debug\04.Hexadecimal_Format.pdb

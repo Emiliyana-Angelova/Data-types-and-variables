@@ -1,0 +1,5 @@
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables-Ex\17.Print _Part_Of_The_ASCII\bin\Debug\17.Print _Part_Of_The_ASCII.exe.config
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables-Ex\17.Print _Part_Of_The_ASCII\bin\Debug\17.Print _Part_Of_The_ASCII.exe
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables-Ex\17.Print _Part_Of_The_ASCII\bin\Debug\17.Print _Part_Of_The_ASCII.pdb
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables-Ex\17.Print _Part_Of_The_ASCII\obj\Debug\17.Print _Part_Of_The_ASCII.exe
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables-Ex\17.Print _Part_Of_The_ASCII\obj\Debug\17.Print _Part_Of_The_ASCII.pdb

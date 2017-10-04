@@ -1,0 +1,5 @@
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\02.Floating_Point_Numbers\bin\Debug\02.Floating_Point_Numbers.exe.config
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\02.Floating_Point_Numbers\bin\Debug\02.Floating_Point_Numbers.exe
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\02.Floating_Point_Numbers\bin\Debug\02.Floating_Point_Numbers.pdb
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\02.Floating_Point_Numbers\obj\Debug\02.Floating_Point_Numbers.exe
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\02.Floating_Point_Numbers\obj\Debug\02.Floating_Point_Numbers.pdb

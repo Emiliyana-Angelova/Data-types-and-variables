@@ -1,0 +1,5 @@
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\03.Characters_And_Strings\bin\Debug\03.Characters_And_Strings.exe.config
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\03.Characters_And_Strings\bin\Debug\03.Characters_And_Strings.exe
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\03.Characters_And_Strings\bin\Debug\03.Characters_And_Strings.pdb
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\03.Characters_And_Strings\obj\Debug\03.Characters_And_Strings.exe
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables\03.Characters_And_Strings\obj\Debug\03.Characters_And_Strings.pdb
