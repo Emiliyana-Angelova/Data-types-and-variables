@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.Vowel_Or_Digit", "13.Vow
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.Int_To_Hex_And_Binary", "14.Int_To_Hex_And_Binary\14.Int_To_Hex_And_Binary.csproj", "{02CB8126-5019-4D13-86C7-133631A8C4FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.Diff_Int_Size", "18.Diff_Int_Size\18.Diff_Int_Size.csproj", "{F389B0B8-B5EB-487B-80E4-2C1C6287878B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.Thea_The_Photographer", "19.Thea_The_Photographer\19.Thea_The_Photographer.csproj", "{1A93E12B-44C0-4232-8331-2E680F3AEDAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +115,14 @@ Global
 		{02CB8126-5019-4D13-86C7-133631A8C4FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02CB8126-5019-4D13-86C7-133631A8C4FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02CB8126-5019-4D13-86C7-133631A8C4FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F389B0B8-B5EB-487B-80E4-2C1C6287878B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F389B0B8-B5EB-487B-80E4-2C1C6287878B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F389B0B8-B5EB-487B-80E4-2C1C6287878B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F389B0B8-B5EB-487B-80E4-2C1C6287878B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A93E12B-44C0-4232-8331-2E680F3AEDAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A93E12B-44C0-4232-8331-2E680F3AEDAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A93E12B-44C0-4232-8331-2E680F3AEDAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A93E12B-44C0-4232-8331-2E680F3AEDAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

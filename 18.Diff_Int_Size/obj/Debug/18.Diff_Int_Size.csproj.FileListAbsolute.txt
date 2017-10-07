@@ -1,0 +1,6 @@
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables-Ex\18.Diff_Int_Size\bin\Debug\18.Diff_Int_Size.exe.config
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables-Ex\18.Diff_Int_Size\bin\Debug\18.Diff_Int_Size.exe
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables-Ex\18.Diff_Int_Size\bin\Debug\18.Diff_Int_Size.pdb
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables-Ex\18.Diff_Int_Size\obj\Debug\18.Diff_Int_Size.csprojResolveAssemblyReference.cache
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables-Ex\18.Diff_Int_Size\obj\Debug\18.Diff_Int_Size.exe
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\04.Data types and variables\04.Data_Types_and_Variables-Ex\18.Diff_Int_Size\obj\Debug\18.Diff_Int_Size.pdb
